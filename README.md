@@ -1,5 +1,5 @@
 ## Hi, I am TAM.
-- 🔭 I’m currently working on a couple of web development projects.
+- 🔭 I’m currently working on a couple of Blockchain projects.
 - 🌱 I’m currently learning Typescript while working on a project.
 - 👯 I’m looking to collaborate on Android App and Web Development.
 - 🤔 I’m looking for help with tips on finding the right projects.
